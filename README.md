@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there My name is Monam Ahmed 👋
+![code](https://github.com/Monam-Ahmed/Monam-Ahmed/assets/82207955/c039d73c-2d0d-4071-bb0e-065ebbf260e9)
 
 - 🔭 I’m currently working on ... Celler Certified
 - 🌱 I’m currently learning ... Python
-- 👯 I’m looking to collaborate on ... MERN and Python Projects ![code](https://github.com/Monam-Ahmed/Monam-Ahmed/assets/82207955/c039d73c-2d0d-4071-bb0e-065ebbf260e9)
+- 👯 I’m looking to collaborate on ... MERN and Python Projects 
 - 🤔 I’m looking for help with ...  TechNotes Project
 - 💬 Ask me about ... Full Stack Development 
 - 📫 How to reach me: ... https://monamahmed.netlify.app/
