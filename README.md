@@ -9,6 +9,8 @@
 <!--
 - ⚡ Fun fact: ...  Playin
 -->
-[![Monam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monam-Ahmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Monam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monam-Ahmed&show_icons=true&theme=radica)]
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Monam-Ahmed&theme=dark&exclude_days=Sun%2CSat&card_width=550)](https://git.io/streak-stats)
 
